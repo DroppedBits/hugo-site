@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Dropped Bits</title>
+    <link>https://droppedbits.com/tags/news/</link>
+    <description>Recent content in News on Dropped Bits</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Sat, 02 May 2015 08:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://droppedbits.com/tags/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Free non-trial for apps</title>
+      <link>https://droppedbits.com/news/2015/05/02/free-non-trial/</link>
+      <pubDate>Sat, 02 May 2015 08:00:00 -0500</pubDate>
+      
+      <guid>https://droppedbits.com/news/2015/05/02/free-non-trial/</guid>
+      <description>On Friday, both Per and HoneyJar were made free for a limited time.
+ We don&#39;t really need Per to tell us which option is the better deal.  Developers can&amp;rsquo;t offer free trials to their customers on the App Store, and customers aren&amp;rsquo;t always willing to commit dollars to new apps. That&amp;rsquo;s normal. Even though most apps cost less than a cup of coffee, at least a cup of coffee is something that people know and understand—everyone knows what a cup of coffee offers and can easily decide if it&amp;rsquo;s worth the price.</description>
+    </item>
+    
+    <item>
+      <title>Hello, World.</title>
+      <link>https://droppedbits.com/news/2014/08/25/hello-world/</link>
+      <pubDate>Mon, 25 Aug 2014 08:00:00 -0500</pubDate>
+      
+      <guid>https://droppedbits.com/news/2014/08/25/hello-world/</guid>
+      <description>I&amp;rsquo;m thrilled to announce that—after what feels like an eternity—our first app for iPhone, HoneyJar, was submitted on Sunday for approval to the App Store team.
+This marks a pretty big milestone, obviously. Dropped Bits incorporated almost three years ago, so it&amp;rsquo;s been a long time coming, too. And it&amp;rsquo;s been an interesting road so far, full of inspiration, hard decisions, learning, sacrifice, and happy little victories.
+Turns out, going from idea to shipping your Minimum Viable Product isn&amp;rsquo;t as simple as you&amp;rsquo;d think—especially when your organization is having an identity crisis.</description>
+    </item>
+    
+  </channel>
+</rss>

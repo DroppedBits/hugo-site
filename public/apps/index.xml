@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apps on Dropped Bits</title>
+    <link>https://droppedbits.com/apps/</link>
+    <description>Recent content in Apps on Dropped Bits</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Fri, 01 Feb 2019 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://droppedbits.com/apps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>HoneyJar</title>
+      <link>https://droppedbits.com/apps/honeyjar/</link>
+      <pubDate>Fri, 01 Feb 2019 12:00:00 -0500</pubDate>
+      
+      <guid>https://droppedbits.com/apps/honeyjar/</guid>
+      <description>HoneyJar is a future-value calculator inspired by one of Aesop&amp;rsquo;s fables:
+ A jar of honey was upset and the sticky sweetness flowed out on the table. The sweet smell of the honey soon brought a large number of Flies buzzing around. They did not wait for an invitation. No, indeed; they settled right down, feet and all, to gorge themselves. The Flies were quickly smeared from head to foot with honey.</description>
+    </item>
+    
+    <item>
+      <title>Per</title>
+      <link>https://droppedbits.com/apps/per/</link>
+      <pubDate>Fri, 01 Feb 2019 12:00:00 -0500</pubDate>
+      
+      <guid>https://droppedbits.com/apps/per/</guid>
+      <description>Per helps you shop smarter by figuring out what gets you more for your money.
+At its heart, Per is a price-per-unit calculator. Just give it the price and quantity for two options, tap the Compare button, and let Per figure out which one gives you the best deal.
+Of course, you can do that kind of math with a basic calculator app. Per brings a few neat little tricks to the comparison-shopping party, though.</description>
+    </item>
+    
+  </channel>
+</rss>

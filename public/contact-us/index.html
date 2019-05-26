@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Dropped Bits - Get in touch</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="/css/style.css" media="all" rel="stylesheet">
+
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#4a90e2">
+    <meta name="msapplication-TileColor" content="#603cba">
+    <meta name="theme-color" content="#ffffff">
+   
+    
+    <title>Dropped Bits — Apps that help you make smarter money choices.</title>
+    <meta name="title" content="Dropped Bits — Apps that help you make smarter money choices.">
+    <meta name="description" content="Dropped Bits is a small app atelier, carefully crafting tools that help you make smarter decisions about your money.">
+
+    
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://www.droppedbits.com/">
+    <meta property="og:title" content="Dropped Bits — Apps that help you make smarter money choices.">
+    <meta property="og:description" content="Dropped Bits is a small app atelier, carefully crafting tools that help you make smarter decisions about your money.">
+    <meta property="og:image" content="metaimage@2x.png">
+
+    
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="https://www.droppedbits.com/">
+    <meta property="twitter:title" content="Dropped Bits — Apps that help you make smarter money choices.">
+    <meta property="twitter:description" content="Dropped Bits is a small app atelier, carefully crafting tools that help you make smarter decisions about your money.">
+    <meta property="twitter:image" content="metaimage@2x.png">
+
+    <script defer src="https://use.fontawesome.com/releases/v5.8.1/js/all.js" integrity="sha384-g5uSoOSBd7KkhAMlnQILrecXvzst9TdC09/VM+pjDTCM+1il8RHz5fKANTFFb+gQ" crossorigin="anonymous"></script>
+</head>
+<body class="container">
+    <a href="#main" class="a11y-hidden">Skip to content</a>
+
+<header class="sitewide contentwidth" role="banner">
+    <a class="db-header" alt="Return to home page" href="https://droppedbits.com/">
+        <img class="header__site-logo" src="/images/full-colour-alpha-petals.svg" alt="Dropped Bits logo" />
+        <p class="db-title">Dropped Bits, Inc.</p>
+    </a>
+    <a class="contact-header" alt="Go to the contact page" href="/contact-us/">
+        <i class="far fa-comments"></i> Contact
+    </a>
+</header>
+    
+    <main id="main" role="main" class="contentwidth">
+        
+<h1>Get in touch</h1>
+<p>Have a comment or question? Need support? Want to know more?</p>
+
+<p>Just fill out the form below to send your message. I&rsquo;ll do my best to get back to you within one business day. And  remember, your e-mail address will never be used for anything but answering your question.</p>
+
+
+<hr>
+
+<form class="contact" name="contact" method="POST" action="https://false-link.glitch.me/api/sendmail">
+    <div class="contact__container">
+        <div class="contact__name-input">
+            <label for="name">Name</label>
+            <input class="contact__input contact__input-fullwidth" type="text" name="name" placeholder="Your name" required>
+        </div>
+        <div class="contact__email-input">
+            <label for="email">Email</label>
+            <input class="contact__input contact__input-fullwidth" type="email" name="email" placeholder="you@example.com" required>
+        </div>
+    </div>
+    <div class="contact__subject-input">
+        <label for="subject">Subject</label>
+        <input class="contact__input contact__input-fullwidth" type="text" name="subject" placeholder="How can we help?">
+    </div>
+    <div class="contact__message-input">
+        <label for="message">Message</label>
+        <textarea class="contact__input contact__input-fullwidth" name="message" rows="10" placeholder="Type your message here..."></textarea>
+    </div>
+    <input class='submit' type="submit" value="Send">
+</form>
+
+
+    </main>
+
+    
+<footer role="contentinfo">
+    <div class="footer-container">
+        <div class="footer-nav">
+            <nav class="contentwidth">
+                <div class="footer-nav-item"><a href="/">Home</a></div>
+                <div class="footer-nav-item"><a href="/news/">News</a></div>
+                <div class="footer-nav-item"><a href="/contact-us/">Contact</a></div>
+                <div class="footer-nav-item"><a href="/privacy-policy/">Privacy</a></div>
+                <div class="footer-nav-item">
+                    <a href="https://twitter.com/Dropped_Bits/">
+                        <i class="fab fa-twitter"></i>
+                    </a>
+                </div>
+                <div class="footer-nav-item">
+                    <a href="https://github.com/droppedbits/">
+                        <i class="fab fa-github"></i>
+                    </a>
+                </div>
+            </nav>
+        </div>
+        <div class="footer-copyright">
+            <div class="footer__left">
+                &copy; <script>document.write(new Date().getFullYear())</script> Dropped Bits, Inc.
+            </div>
+            <div class="footer__logo">
+                <img src="/images/monochrome-light-alpha-petals.svg" class="footer__logo--image" />
+            </div>
+            <div class="footer__right">
+                Made with ♡ in Montreal
+            </div>
+            
+        </div>
+    </div>
+</footer>
+    <script type="text/javascript" src="/js/purify.min.js"></script>
+    <script>
+        const sendButton = document.querySelector('[type="submit"]');
+        const form = document.forms.namedItem('contact');
+        let pageLoadStart;
+
+        window.onload = () => { pageLoadStart = Date.now(); }
+
+        const apiStatus = pingAPI();
+                
+        form.addEventListener('submit', (event) => {
+            const nameInput = document.querySelector('[name="name"]');
+            const emailInput = document.querySelector('[name="email"]');
+            const subjectInput = document.querySelector('[name="subject"]');
+            const messageInput = document.querySelector('[name="message"]');
+            const pageLoadToSubmit = Date.now() - pageLoadStart;
+
+            fetch(event.target.action, {
+                method: 'POST',
+                body: JSON.stringify({
+                    name: sanitize(nameInput),
+                    email: sanitize(emailInput),
+                    subject: sanitize(subjectInput),
+                    message: sanitize(messageInput),
+                    interval: pageLoadToSubmit
+                }),
+                headers: {
+                    'Accept': 'application/json',
+                    'Content-Type': 'application/json'
+                }
+            }).then((response) => {
+                displayMessage(response.status === 200);
+            });
+            
+            event.preventDefault();
+        });
+
+        function sanitize(stringInput) {
+            return DOMPurify.sanitize(stringInput.value);
+        }
+
+        function displayMessage(wasSuccessful) {
+            if (typeof wasSuccessful != "boolean") { return; }
+
+            const messageBox = document.createElement('div');
+            messageBox.classList.add('message', 'message-initial-style');
+
+            if (wasSuccessful) {
+                messageBox.innerHTML = '<p>Your message was successfully sent! You should hear back by the end of the next business day.</p>'
+                messageBox.classList.add('success');
+            }
+            else {
+                messageBox.innerHTML = '<p>Something went wrong! <a href="/contact-us" title="Reload this page">Click here</a> to try again.</p>'
+                messageBox.classList.add('error');
+            }
+
+            const parentNode = form.parentNode;
+            parentNode.removeChild(form);
+            parentNode.appendChild(messageBox);
+            window.setTimeout(() => {
+                messageBox.classList.remove('message-initial-style');
+            }, 250);
+        }
+
+        function pingAPI() {
+            fetch('https://false-link.glitch.me/api/status')
+            .then((response) => {
+                console.log(`API status: ${response.status === 200 ? 'ready' : 'not ready'}`);
+                return response.status === 200;
+            })
+            .catch(error => {
+                console.error('API error:', error);
+                return false;
+            })
+        }
+    </script>
+</body>
+</html>

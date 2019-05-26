@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Dropped Bits</title>
+    <link>https://droppedbits.com/tags/</link>
+    <description>Recent content in Tags on Dropped Bits</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ca</language>
+    <lastBuildDate>Sat, 02 May 2015 08:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://droppedbits.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Honeyjar</title>
+      <link>https://droppedbits.com/tags/honeyjar/</link>
+      <pubDate>Sat, 02 May 2015 08:00:00 -0500</pubDate>
+      
+      <guid>https://droppedbits.com/tags/honeyjar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>News</title>
+      <link>https://droppedbits.com/tags/news/</link>
+      <pubDate>Sat, 02 May 2015 08:00:00 -0500</pubDate>
+      
+      <guid>https://droppedbits.com/tags/news/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Per</title>
+      <link>https://droppedbits.com/tags/per/</link>
+      <pubDate>Sat, 02 May 2015 08:00:00 -0500</pubDate>
+      
+      <guid>https://droppedbits.com/tags/per/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

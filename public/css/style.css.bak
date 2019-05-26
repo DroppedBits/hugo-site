@@ -1,0 +1,502 @@
+:root {
+   --brand-blue: #4a90e2;
+   --light-grey: #f1f3f6;
+   --slate: #526378;
+   --black: #0e1c2d;
+   --visited-link: rgba(127, 60, 223, 1);
+   --error-red: rgba(223, 85, 102, 1);
+   --error-red-15percent: rgba(223, 85, 102, 0.15);
+   --error-red-85percent: rgba(223, 85, 102, 0.85);
+   --warning-yellow: rgba(255, 203, 117, 1);
+   --warning-yellow-15percent: rgba(255, 203, 117, 0.15);
+   --warning-yellow-85percent: rgba(255, 203, 117, 0.85);
+   --success-green: rgba(127, 191, 127, 1);
+   --success-green-15percent: rgba(127, 191, 127, 0.15);
+   --success-green-85percent: rgba(127, 191, 127, 0.85);
+}
+
+body {
+   color: var(--black);
+   font-family: "Avenir Next", sans-serif;
+   font-size: 1em;
+   margin: 0;
+   padding: 0;
+}
+
+.container {
+   display: flex;
+   min-height: 100vh;
+   flex-direction: column;
+   justify-content: space-between;
+}
+
+h1, h2, h3, h4 {
+   color: var(--slate);
+}
+
+header {
+   background-color: var(--brand-blue);
+   color: white;
+   font-size: 1.2em;
+   font-weight: 500;
+   width: 100%;
+}
+
+nav {
+   display: flex;
+   flex-flow: row wrap;
+   margin: 0 auto;
+   max-width: 50rem;
+   padding-top: 1rem;
+   padding-bottom: 1rem;
+   width: 100%;
+}
+
+.header__site-logo {
+   background-color: white;
+   border-radius: 50%;
+}
+
+.top-nav > ul {
+   align-items: center;
+   display: flex;
+   flex-flow: row nowrap;
+   margin: 0;
+   padding: 0;
+}
+
+.top-nav > ul li {
+   flex: 1;
+   list-style: none;
+}
+
+.top-nav-item > a {
+   color: white;
+   text-decoration: none;
+}
+
+main {
+   flex: 1;
+   margin: 0 auto;
+   max-width: 50em;
+   padding: 1.5em;
+}
+
+article img {
+   display: block;
+   margin: 2em auto;
+   max-width: 100%;
+}
+
+figcaption {
+   font-style: italic;
+   text-align: center;
+}
+
+main a {
+   color: var(--brand-blue);
+}
+
+main a:hover {
+   color: var(--slate);
+}
+
+main a:visited {
+   color: var(--visited-link);
+}
+
+main h2 > a {
+   text-decoration: none;
+}
+
+main hr {
+   background-color: var(--slate);
+   border: 0;
+   height: 1px;
+   margin: 3em 0;
+}
+
+.link-appstore {
+   display: block;
+   margin: 2em auto;
+}
+
+footer {
+   background-color: var(--black);
+   color: white;
+   margin-top: 4em;
+   width: 100%;
+}
+
+.footer-container {
+   display: flex;
+   flex-flow: column nowrap;
+   font-size: 0.9em;
+   margin: 0 auto;
+   max-width: 50rem;
+   min-height: 8rem;
+   /* padding-bottom: 0.5em; */
+}
+
+.footer-container > * {
+   order: 1;
+}
+
+.footer-nav > ul {
+   align-items: center;
+   display: flex;
+   flex-flow: row wrap;
+   justify-content: space-around;
+   margin: 1rem 0;
+   padding: 0 0.25rem;
+   text-align: center;
+}
+
+.footer-copyright {
+   align-items: center;
+   display: flex;
+   flex-flow: row wrap;
+   justify-content: space-around;
+   margin: 2em auto 0 auto;
+   width: 100%;
+}
+
+.footer__left {
+   flex: 1 0 auto;
+   font-size: 0.8em;
+   text-align: right;
+}
+
+.footer__logo {
+   flex: 0 1 36px;
+   text-align: center;
+}
+
+.footer__right {
+   flex: 1 0 auto;
+   font-size: 0.8em;
+   text-align: left;
+}
+
+.footer__logo--image {
+   margin: 0;
+   height: 24px;
+   width: 24px;
+}
+
+.footer-nav > ul li {
+   list-style: none;
+}
+
+.footer-nav-item > a {
+   color: white;
+   text-decoration: none;
+}
+
+.footer-nav-item > a:hover {
+   color: var(--brand-blue);
+}
+
+.fa-twitter, .fa-github {
+   font-size: 1.5em;
+}
+
+.home__about {
+   text-align: center;
+}
+
+.home__apps {
+   /* display: flex; */
+   /* flex-flow: row wrap; */
+   /* justify-content: space-between; */
+}
+
+.app-container {
+   /* background-color: var(--light-grey); */
+   /* border: 1px solid purple; */
+   display: flex;
+   justify-content: center;
+   /* border-radius: 0.25rem; */
+   /* display: flex; */
+   flex-flow: row nowrap;
+   /* margin: 0.5rem; */
+   /* padding: 1rem; */
+   /* width: 25%; */
+}
+
+.app-container__icon {
+   /* border: 1px solid green; */
+   flex: 0 1 6em;
+   /* height: 5 rem; */
+   margin: 0.5em;
+   width: 100%;
+}
+
+.app-container__icon > img {
+   filter: drop-shadow(0 2px 2px rgba(0, 0, 0, 0.5));
+   width: 100%;
+}
+
+.app-container__title {
+   flex: 0 1 auto;
+}
+
+.app-container__description {
+   flex: 0 1 100%;
+}
+
+.hero {
+   max-width: 100%;
+}
+
+.contact {
+   display: flex;
+   flex-flow: column nowrap;
+   align-items: center;
+}
+
+.contact__container {
+   display: flex;
+   flex-flow: row wrap;
+   justify-content: space-between;
+   width: 100%;
+}
+
+.contact__name-input {
+   flex: 1 0 20em;
+}
+
+.contact__email-input {
+   flex: 1 0 20em;
+}
+
+.contact__subject-input {
+   margin: 1em 0;
+   width: 100%;
+}
+
+.contact__message-input {
+   margin-bottom: 1em;
+   width: 100%;
+}
+
+.contact__input-fullwidth {
+   -moz-appearance: none;
+   -webkit-appearance: none;
+   appearance: none;
+   border: 1px solid var(--slate);
+   border-radius: 0.1em;
+   font-size: 1em;
+   margin: 0 auto;
+   padding: 0.25em 0.5em;
+   width: calc(100% - 1em - 2px);
+}
+
+.submit {
+   -moz-appearance: none;
+   -webkit-appearance: none;
+   appearance: none;
+   background-color: var(--brand-blue);
+   border: none;
+   border-radius: 0.1em;
+   color: white;
+   font-size: 1.25em;
+   margin: 0 auto;
+   padding: 0.25em 0;
+}
+
+label {
+   display: block;
+}
+
+/* Phone-type screen media queries */
+@media screen and (max-width: 35rem) {
+   nav {
+      justify-content: center;
+   }
+
+   .header__site-logo {
+      flex: 1 1 3rem;
+      padding: 0.05rem;
+      width: 3rem;
+   }
+
+   .top-nav > ul {
+      flex-basis: 100%;
+      justify-content: space-around;
+   }
+
+   .top-nav > ul li {
+      text-align: center;
+   }
+
+   main {
+      font-size: 1em;
+   }
+
+   /* .app-container { */
+      /* flex-flow: column nowrap; */
+   /* } */
+
+   /* .home__apps { */
+      /* flex-direction: column; */
+   /* } */
+
+   /* .app-container__icon > img { */
+      /* width: 4rem; */
+   /* } */
+   
+   .submit {
+      width: 100%;
+   }
+}
+
+/* Table-type screen media queries */
+@media screen and (min-width: 35rem) {
+   nav {
+      justify-content: space-between;
+      width: calc(100% - 2rem);
+   }
+
+   .header__site-logo {
+      flex: 1 1 5rem;
+      padding: 0.1rem;
+      width: 4rem;
+   }
+
+   .top-nav > ul {
+      justify-content: space-between;
+   }
+
+   .top-nav > ul li {
+      padding: 0 0 0 2rem;
+      text-align: right;
+   }
+
+   .top-nav-item > a:hover {
+      border-bottom: 0.5rem solid;
+   }
+
+   main {
+      font-size: 1.2em;
+   }
+
+   /* .home__apps { */
+      /* flex-flow: row wrap; */
+      /* justify-content: space-between; */
+   /* } */
+
+   /* .home__apps > h2 { */
+      /* flex: 0 1 100%; */
+   /* } */
+
+   /* .app-container { */
+      /* flex-flow: row nowrap; */
+      /* flex: 1 0 calc(50% - 6rem); */
+   /* } */
+
+   /* .app-container__icon > img { */
+      /* margin-right: 1rem; */
+      /* transform: rotate(-5deg); */
+      /* width: 5rem; */
+   /* } */
+
+   .footer-nav__item {
+      border-top: 0.25rem solid var(--black);
+   }
+
+   .footer-nav__item:hover {
+      border-top: 0.25rem solid var(--brand-blue);
+   }
+
+   .contact__name-input {
+      margin-right: 0.25em;
+   }
+
+   .contact__email-input {
+      margin-left: 0.25em;
+   }
+
+   .submit {
+      width: 300px;
+   }
+}
+
+/* Desktop-type screen media queries */
+@media screen and (min-width: 50rem) {
+   main {
+      margin: 0 auto;
+      max-width: 50rem;
+   }
+}
+
+/* Helper classes */
+
+.center {
+   display: block;
+   margin: 0 auto;
+}
+
+.small {
+   font-size: smaller;
+}
+
+.caps {
+   text-transform: uppercase;
+}
+
+.page-footer {
+   color: var(--slate);
+   display: block;
+   font-weight: 700;
+   padding: 3rem 0;
+   text-align: center;
+}
+
+/* Message box classes */
+
+.message {
+   border-radius: 0.5em;
+   font-size: 1.2em;
+   font-weight: 600;
+   margin: 0 auto;
+   max-width: 25em;
+   opacity: 1;
+   margin-top: 0;
+   padding: 0.5em 1.25em;
+   text-align: center;
+   transition: margin-top 0.5s ease-in, opacity 0.5s linear;
+   width: 80%;
+}
+
+.message-initial-style {
+   margin-top: 100px;
+   opacity: 0;
+}
+
+.success {
+   background-color: var(--success-green-15percent);
+   border: 2px solid var(--success-green);
+}
+
+.warning {
+   background-color: var(--warning-yellow-15percent);
+   border: 2px solid var(--warning-yellow);
+}
+
+.error {
+   background-color: var(--error-red-15percent);
+   border: 2px solid var(--error-red);
+}
+
+/* For visually hiding items off screen but not from a screenreader
+ * See: http://webaim.org/techniques/css/invisiblecontent/
+ */
+ .a11y-hidden {
+    position: absolute;
+    left: -10000px;
+    top: auto;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+ }
