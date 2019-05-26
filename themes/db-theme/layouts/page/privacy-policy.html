@@ -1,0 +1,5 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+<span class="small caps page-footer">Last updated {{ dateFormat "2 January, 2006" .Params.LastMod }}</span>
+{{ end }}

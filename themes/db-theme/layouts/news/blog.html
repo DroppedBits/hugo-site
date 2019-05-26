@@ -1,0 +1,20 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+<span class="small caps">
+    Posted on <time datetime="{{ .Date.Format "2006-01-02" | safeHTML }}">{{ dateFormat "2 January, 2006" .PublishDate }}</time>
+</span>
+{{ .Content }}
+
+<p><a class="permalink" href="{{ .Permalink }}">#</a></p>
+
+<hr class="news-hrule" />
+
+    {{ if .Params.tags }}
+    <p><span class="small caps">Filed under:</span> 
+    {{ range .Params.tags }}
+        <a href="/tags/{{ . | urlize }}" class="news-tag">{{ . }}</a>
+    {{ end }}
+    </p>
+    {{ end }}
+
+{{ end }}

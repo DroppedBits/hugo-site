@@ -1,0 +1,29 @@
+{{ define "main" }}
+<h1>{{ .Title }}</h1>
+{{ .Content }}
+
+<hr>
+
+<form class="contact" name="contact" method="POST" action="https://false-link.glitch.me/api/sendmail">
+    <div class="contact__container">
+        <div class="contact__name-input">
+            <label for="name">Name</label>
+            <input class="contact__input contact__input-fullwidth" type="text" name="name" placeholder="Your name" required>
+        </div>
+        <div class="contact__email-input">
+            <label for="email">Email</label>
+            <input class="contact__input contact__input-fullwidth" type="email" name="email" placeholder="you@example.com" required>
+        </div>
+    </div>
+    <div class="contact__subject-input">
+        <label for="subject">Subject</label>
+        <input class="contact__input contact__input-fullwidth" type="text" name="subject" placeholder="How can we help?">
+    </div>
+    <div class="contact__message-input">
+        <label for="message">Message</label>
+        <textarea class="contact__input contact__input-fullwidth" name="message" rows="10" placeholder="Type your message here..."></textarea>
+    </div>
+    <input class='submit' type="submit" value="Send">
+</form>
+
+{{ end }}

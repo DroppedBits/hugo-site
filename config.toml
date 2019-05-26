@@ -1,0 +1,12 @@
+baseURL = "https://droppedbits.com/"
+languageCode = "en-ca"
+title = "Dropped Bits"
+theme = "db-theme"
+footnoteReturnLinkContents = "⮐"
+
+[params]
+  author = "Angelo Stavrow"
+
+[permalinks]
+  news = "/news/:year/:month/:day/:filename"
+  apps = "/apps/:title"

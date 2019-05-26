@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+{{ partial "head.html" . }}
+<body class="container">
+    {{ partial "header.html" . }}
+    
+    <main id="main" role="main" class="contentwidth">
+        <span class="breadcrumb small caps"><a href="/news/">&larr; Back to News</a></span>
+        <article role="article">
+            {{ block "main" . }}
+            <h2>Hi there!</h2>
+            <p>This is content from <code>layouts/news/baseof.html</code>.</p>
+            {{ end }}
+        </article>
+    </main>
+
+    {{ partial "footer.html" . }}
+</body>
+</html>

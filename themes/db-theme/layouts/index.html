@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+{{ partial "head.html" . }}
+<body class="container">
+    <a href="#main" class="a11y-hidden">Skip to content</a>
+
+    <header class="home contentwidth" role="banner">
+        <h1>Dropped Bits<img class="homepage__site-logo" src="/images/full-colour-alpha-petals.svg" alt="Dropped Bits logo" /></h1>
+        <div class="homepage__about">
+            <h2>Dropped Bits is a small app atelier, crafting tools that help you make smarter decisions about your money.</h2>
+        </div>
+    </header>
+
+    <main role="main">
+        <nav class="apps-nav contentwidth" role="navigation">
+            <ul>
+                <li id="app_per">
+                    <a href="/apps/per/">Per</a>
+                </li>
+                <li id="app_honeyjar">
+                    <a href="/apps/honeyjar/">HoneyJar</a>
+                </li>
+            </ul>
+        </nav>
+
+        <section id="homepage__learn-more" class="contentwidth">
+            <h2>Want to know more? Check out <a href="/news/">the blog</a>.</h2>
+        </section>
+    </main>
+    
+    {{ partial "footer.html" . }}
+</body>
+</html>

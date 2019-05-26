@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+{{ partial "head.html" . }}
+<body class="container">
+    {{ partial "header.html" . }}
+    
+    <main id="main" role="main">
+        {{ block "main" . }}
+        <h2>Hi there!</h2>
+        <p>This is content from <code>layouts/_default/single.html</code>.</p>
+        {{ end }}
+    </main>
+
+    {{ partial "footer.html" . }}
+</body>
+</html>
