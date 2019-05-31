@@ -12,20 +12,9 @@ It's important, however, to consider the difference between private and anonymou
 
 ## Anonymous data
 
-### Metrics
-
-We use [Google Analytics](http://www.google.ca/analytics/) and [Squarespace Metrics](http://help.squarespace.com/guides/metrics-faq) to get an idea of how and why people visit this website. These services collect anonymous data to determine where website traffic is coming from, and where it goes.
-
-None of the reports generated from data collected by these services are personally identifying. In other words, there's no way for us to know exactly who is visiting the site—the data are anonymous and aggregate. And that's the way we want to keep it.
-
-You can review these companies' privacy policies at the following links:
-
-- [Google Analytics](https://support.google.com/analytics/answer/6004245)
-- [Squarespace](http://www.squarespace.com/privacy/)
-
 ### Affiliate marketing
 
-We also sometimes use affiliate links to the App Store, known as [the Affiliate Program](http://www.apple.com/itunes/affiliates/resources/documentation/faq_en.html). Visiting one of these links will anonymously track purchases you may make on the App Store or iTunes Store, for a 24-hour hour period, on the device that you were using when you opened the link.
+We may sometimes use affiliate links to the App Store, known as [the Affiliate Program](http://www.apple.com/itunes/affiliates/resources/documentation/faq_en.html). Visiting one of these links will anonymously track purchases you may make on the App Store or iTunes Store, for a 24-hour hour period, on the device that you were using when you opened the link.
 
 You can review the terms and conditions that govern our use of the Affiliate Program [here](http://www.performancehorizon.com/docs/itunes/terms/en.pdf).
 
@@ -42,10 +31,6 @@ Your e-mail address will never shared be with anyone without your permission. Pe
 Well, there's one exception: if we're required by law to share this information, we will, but only after a careful review of the request with our lawyers.
 
 We do not receive any of your information (e.g. name, credit card number, billing address, etc.) from Apple when you make a purchase from the App Store, nor do we have any idea who submits reviews of our apps.
-
-## Third-party tracking
-
-This website uses so-called "social sharing" buttons for your convenience in sharing some pages or news articles. Clicking on one of these buttons will result in your action being tracked by a third party (e.g. Google+, Twitter, &cet.). We have no control over this, but you can always turn off this kind of tracking by turning off third-party cookies in your browser(s).
 
 ## Living document
 

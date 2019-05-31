@@ -22,6 +22,8 @@ Specifically, the site no longer uses Google Analytics or Squarespace Metrics �
 
 However, analytics _are_ helpful in seeing what's useful to users of the site, what's interesting to readers of the blog, and so on. I've been looking for a privacy-focused option, and while there are some great options out there right now, I can't justify the additional expenditure right now — so my focus is to bring up business revenue to pay for it, rather than fall back to using a free, less privacy-focused option.
 
+I've also removed any "social sharing" buttons from the site. If you want to share something you find on this site, copying and pasting the link into your favourite social network works great!
+
 Don't forget to read the [Dropped Bits privacy policy in full]. This stuff is important.
 
 [one-person]: https://angelostavrow.com/
