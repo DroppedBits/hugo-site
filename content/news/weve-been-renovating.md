@@ -1,7 +1,7 @@
 ---
 title: "We've been renovating."
-date: 2019-05-26T12:00:00-05:00
-draft: true
+date: 2019-05-31T00:00:00-05:00
+draft: false
 description: "After a (unexpectedly long) hiatus from posting here, the site is back with a fresh new design!"
 type: "news"
 layout: "blog"
