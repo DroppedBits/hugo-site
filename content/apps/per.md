@@ -89,4 +89,4 @@ Tap the i at the bottom-right of the main view, and then tap Show the tutorial.
 
 ### I have a question not covered here.
 
-You should definitely get in touch via [e-mail](/contact-us) or [Twitter](https://twitter.com/Dropped_Bits) and let me know how I can help.
+You should definitely get in touch via [e-mail](/contact-us) or [Twitter](https://twitter.com/DroppedBitsHQ) and let me know how I can help.
