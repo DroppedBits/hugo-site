@@ -165,6 +165,13 @@ section#homepage__learn-more h2 {
    justify-content: space-between;
 }
 
+blockquote {
+   border-left: 0.5em solid #526378;
+   font-style: italic;
+   padding-left: 2em;
+   margin: 0;
+}
+
 /* Contact form-related classes */
 
 .contact {
