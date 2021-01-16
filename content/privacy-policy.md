@@ -12,11 +12,11 @@ It's important, however, to consider the difference between private and anonymou
 
 ## Anonymous data
 
-### Affiliate marketing
+### Analytics
 
-We may sometimes use affiliate links to the App Store, known as [the Affiliate Program](http://www.apple.com/itunes/affiliates/resources/documentation/faq_en.html). Visiting one of these links will anonymously track purchases you may make on the App Store or iTunes Store, for a 24-hour hour period, on the device that you were using when you opened the link.
+We've chosen to use [Plausible Analytics](https://plausible.io) to track usage of websites (including droppedbits.com) because it does a great job of providing useful data without, in their own words, "collecting any personal data or personally identifiable information (PII), without using cookies and while respecting the privacy of [our] website visitors" — this means that you're not tracked across devices, websites, and apps.
 
-You can review the terms and conditions that govern our use of the Affiliate Program [here](http://www.performancehorizon.com/docs/itunes/terms/en.pdf).
+You can see exactly what we see [here](https://plausible.io/droppedbits.com).
 
 ## Private data
 
@@ -24,13 +24,9 @@ We do, in some circumstances, collect some personal data.
 
 Specifically, if you send us an e-mail, we'll keep a record of your e-mail address, as well as the communication you had with us, in some form or another. We do this because it's really hard to reply to you without this information, and because whatever comments and questions you have may help us make better products for you.
 
-Additionally, if you post a comment on a news article, whatever information you share will be publicly available to other users of the website, as well as other third parties.
+Your e-mail address will never shared be with anyone without your permission, period, unless we're required by law — but only after a careful review of the request with legal experts.
 
-Your e-mail address will never shared be with anyone without your permission. Period.
-
-Well, there's one exception: if we're required by law to share this information, we will, but only after a careful review of the request with our lawyers.
-
-We do not receive any of your information (e.g. name, credit card number, billing address, etc.) from Apple when you make a purchase from the App Store, nor do we have any idea who submits reviews of our apps.
+We do not receive any of your information (e.g. name, credit card number, billing address, etc.) from Apple when you make a purchase from the App Store, nor do we have any information on who submits reviews of our apps.
 
 ## Living document
 
