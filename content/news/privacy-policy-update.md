@@ -1,7 +1,7 @@
 ---
 title: "Privacy Policy Update"
-date: 2021-01-16T10:44:08-05:00
-draft: true
+date: 2021-01-16T11:00:00-05:00
+draft: false
 aliases: []
 description: "We've updated our privacy policy."
 type: "news"
