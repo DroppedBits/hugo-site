@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-date: 2019-03-14T07:57:00-04:00
+date: 2021-01-28T08:00:00-04:00
 draft: false
 type: page
 layout: privacy-policy
@@ -22,9 +22,11 @@ You can see exactly what we see [here](https://plausible.io/droppedbits.com).
 
 We do, in some circumstances, collect some personal data.
 
-Specifically, if you send us an e-mail, we'll keep a record of your e-mail address, as well as the communication you had with us, in some form or another. We do this because it's really hard to reply to you without this information, and because whatever comments and questions you have may help us make better products for you.
+Specifically, if you send us an e-mail or subscribe to our newsletter, we'll keep a record of your e-mail address, as well as any communication you had with us, in some form or another. We do this because it's necessary to communicate with you, and because whatever comments and questions you have may help us make better products for you.
 
-Your e-mail address will never shared be with anyone without your permission, period, unless we're required by law — but only after a careful review of the request with legal experts.
+We opt out of using any tracking analytics provided by [Buttondown](https://buttondown.email), our newsletter provider.
+
+Your e-mail address will never shared be with anyone without your permission, period, unless we're required to by law — but only after a careful review of the request with legal experts.
 
 We do not receive any of your information (e.g. name, credit card number, billing address, etc.) from Apple when you make a purchase from the App Store, nor do we have any information on who submits reviews of our apps.
 
