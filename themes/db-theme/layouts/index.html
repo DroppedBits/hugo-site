@@ -7,13 +7,16 @@
     <header class="home contentwidth" role="banner">
         <h1>Dropped Bits<img class="homepage__site-logo" src="/images/full-colour-alpha-petals.svg" alt="Dropped Bits logo" /></h1>
         <div class="homepage__about">
-            <h2>Dropped Bits is a small app atelier, crafting tools that help you make smarter decisions about your money.</h2>
+            <h2>Dropped Bits is a small app atelier, crafting private, accessible tools for iOS, Mac, and the web.</h2>
         </div>
     </header>
 
     <main role="main">
         <nav class="apps-nav contentwidth" role="navigation">
             <ul>
+                <li id="app_thoughtdetox">
+                    <a href="https://thoughtdetox.app">Per</a>
+                </li>
                 <li id="app_per">
                     <a href="/apps/per/">Per</a>
                 </li>
@@ -24,7 +27,8 @@
         </nav>
 
         <section id="homepage__learn-more" class="contentwidth">
-            <h2>Want to know more? Check out <a href="/news/">the blog</a>.</h2>
+            <h2>Want to know more? Check out <a href="/news/">the blog</a>, or get updates sent to your inbox.</h2>
+            {{ partial "newsletter.html" . }}
         </section>
     </main>
     
