@@ -10,3 +10,8 @@ footnoteReturnLinkContents = "⮐"
 [permalinks]
   news = "/news/:year/:month/:day/:filename"
   apps = "/apps/:title"
+  
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

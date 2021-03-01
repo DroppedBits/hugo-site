@@ -6,7 +6,6 @@ type: "app"
 layout: "ios"
 icon: "/images/HoneyJar/icon@2x.png"
 description: "HoneyJar is an app for iPhone that helps you figure out the real cost of your spending."
-storelink: "https://itunes.apple.com/us/app/honeyjar/id908078758?mt=8"
 aliases: [ "/honeyjar" ]
 menu:
   main:
@@ -15,7 +14,7 @@ menu:
     weight: 0
 ---
 
-HoneyJar is a future-value calculator inspired by one of Aesop's fables:
+While **no longer available for sale**, HoneyJar was a future-value calculator inspired by one of Aesop's fables:
 
 > A jar of honey was upset and the sticky sweetness flowed out on the table. The sweet smell of the honey soon brought a large number of Flies buzzing around. They did not wait for an invitation. No, indeed; they settled right down, feet and all, to gorge themselves. The Flies were quickly smeared from head to foot with honey. Their wings stuck together. They could not pull their feet out of the sticky mass. And so they died, giving their lives for the sake of a taste of sweetness.
 

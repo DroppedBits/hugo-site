@@ -2,7 +2,9 @@
 <article class="contentwidth">
     <img class="hero center" src="/images/{{ .Title }}/hero.png" />
     <h1>{{ .Description }}</h1>
+    {{ if .Params.storelink }}
     <a href="{{ .Params.storelink }}"><img class="appstore center" src="/images/appstore-black.svg" alt="Download {{ .Title }} on the App Store"></a>
+    {{ end }}
     {{ .Content }}
 </article>
 {{ end }}
