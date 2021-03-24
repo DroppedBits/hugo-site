@@ -29,7 +29,7 @@ I'm really fortunate to be able to do any of this, and even more fortunate that 
 
 (If you want to help me get there, consider [buying Thought Detox on the App Store][tdappstore]!)
 
-<a style="display: block; text-align: center" href="https://apps.apple.com/app/thought-detox/id1534491093"><img alt="Buy Thought Detox on the App Store" src="http://localhost:1313/images/appstore-black.svg" style="width: 120px" /></a>
+<a style="display: block; text-align: center" href="https://apps.apple.com/app/thought-detox/id1534491093"><img alt="Buy Thought Detox on the App Store" src="https://droppedbits.com/images/appstore-black.svg" style="width: 120px" /></a>
  
 ## An Update on Updates
 
