@@ -12,7 +12,7 @@ layout: "blog"
 
 Compared to [February][feb2021], with the new app launch, March has been much slower. While that's pretty much what I expected, I didn't think it'd be _this_ much slower. That's okay! It gives me a baseline to compare against as I try things.
 
-Here's what the download numbers looked like for February:
+Here's what the download numbers looked like for March:
 
 - [Per][per]: 3 downloads (-63% ▽)
 - [Thought Detox][thoughtdetox]: 10 downloads (-92% ▽)
