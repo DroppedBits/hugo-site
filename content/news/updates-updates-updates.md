@@ -1,6 +1,6 @@
 ---
 title: "Updates! Updates! Updates!"
-date: 2021-07-21T07:00:04-04:00
+date: 2021-07-21T06:30:04-04:00
 draft: false
 aliases: []
 description: "My updates, your updates, updates updates updates."
