@@ -3,7 +3,7 @@ title: "July 2021 Updates"
 date: 2021-08-04T07:00:00-04:00
 draft: false
 aliases: []
-description: "The monthly business update for July 2021"
+description: "The monthly business update for July 2021."
 type: "news"
 layout: "blog"
 ---
