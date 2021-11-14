@@ -5,6 +5,8 @@ type: contact
 layout: contact-us
 ---
 
-Have a comment or question? Need support? Want to know more?
+Have a comment or question? Need support? Want to know more? 
 
-Just fill out the form below to send your message. I'll do my best to get back to you within one business day. And  remember, your e-mail address will never be used for anything but answering your question.
+Send me an [email](mailto:contact@droppedbits.com), and I'll do my best to get back to you within one business day. Remember, your e-mail address will never be used for anything but answering your question.
+
+If you prefer, you can also reach out via [Twitter](https://twitter.com/DroppedBitsHQ).
