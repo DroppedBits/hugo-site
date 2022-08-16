@@ -6,7 +6,7 @@ type: "app"
 layout: "ios"
 icon: "/images/Per/icon@2x.png"
 description: "Per is the easiest, fastest way to compare price while you shop."
-storelink: "https://itunes.apple.com/us/app/per-shop-smart.-save-money./id922693504?ls=1&mt=8"
+storelink: "https://apps.apple.com/app/per-money-saver/id922693504"
 aliases: [ "/per" ]
 menu:
   main:
@@ -39,7 +39,7 @@ Per tells you just how much more you're getting for your money, so you can make 
 
 ### Convert between units.
 
-<img class="halfwidth center" src="/images/Per/unit-conversion.gif" alt="Animated image showing Per's built-in unit conversion.">
+<img class="halfwidth center" src="/images/Per/unit-conversion.png" alt="Image showing Per's built-in unit conversion.">
 
 Making a decision between two options is even more annoying when they're in different units. Millilitres versus fluid ounces. Grams versus pounds. And so on.
 
@@ -51,7 +51,7 @@ Just select the type of unit (weight or volume), and then choose the units for e
 
 ### Forget the calculator.
 
-<img class="halfwidth center" src="/images/Per/math.gif" alt="Animated image showing Per's in-line calculator">
+<img class="halfwidth center" src="/images/Per/math.png" alt="Image showing Per's in-line calculator">
 
 Coupons?
 
@@ -77,15 +77,11 @@ You have to strike a balance between accuracy and practicality. While 16 fluid o
 
 ### Does Per's conversion feature handle UK measurement units?
 
-Yes! You're prompted to select the type of non-metric units when you first launch the app (US vs UK) for the region you're in. You can change this at any time by tapping the info button and changing your selection.
+Yes! When the app first launches it'll set Imperial measurements for the region you're in. You can change this at any time by tapping the menu button and changing your selection.
 
 ### Why can't I enter complex equations, like 7 × 25 + 6 ÷ 3?
 
-It's a bit complicated to make this work in a way that people expect, due to [operator precedence](http://en.wikipedia.org/wiki/Order_of_operations) in mathematics. I'm working on an enhancement for this, but in the meanwhile, you can always enter a first equation (7 × 25), go to another input field, then go back and enter the next part of the equation (+ 6), and so on.
-
-### How can I see the first-launch tutorial again?
-
-Tap the i at the bottom-right of the main view, and then tap Show the tutorial.
+It's a bit complicated to make this work in a way that people expect, due to [operator precedence](http://en.wikipedia.org/wiki/Order_of_operations) in mathematics. In the meanwhile, you can always enter a first equation (7 × 25), then go back and enter the next part of the equation (+ 6), and so on.
 
 ### I have a question not covered here.
 
