@@ -6,6 +6,8 @@ type: page
 layout: privacy-policy
 ---
 
+**Last updated 11 February, 2024**
+
 Our approach to privacy is pretty straightforward—we avoid collecting private information if we don't have to, and if we do, we respect and protect it.
 
 It's important, however, to consider the difference between private and anonymous data.
@@ -24,7 +26,10 @@ We do, in some circumstances, collect some personal data.
 
 Specifically, if you send us an e-mail or subscribe to our newsletter, we'll keep a record of your e-mail address, as well as any communication you had with us, in some form or another. We do this because it's necessary to communicate with you, and because whatever comments and questions you have may help us make better products for you.
 
-We opt out of using any tracking analytics provided by [Buttondown](https://buttondown.email), our newsletter provider.
+We use some tracking analytics provided by [Buttondown](https://buttondown.email), our newsletter provider. These analytics include:
+- Whether the email sent by Buttondown was received by you
+- Whether the email sent by Buttondown was opened by you
+- What links you click within that email
 
 Your e-mail address will never shared be with anyone without your permission, period, unless we're required to by law — but only after a careful review of the request with legal experts.
 
