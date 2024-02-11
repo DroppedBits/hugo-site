@@ -1,7 +1,7 @@
 ---
 title: "Privacy Policy Update - Feburary 2024"
 date: 2024-02-11T11:00:00-05:00
-draft: true
+draft: false
 aliases: []
 description: "We've updated our privacy policy."
 type: "news"

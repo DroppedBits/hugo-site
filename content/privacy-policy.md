@@ -1,6 +1,6 @@
 ---
 title: "Privacy Policy"
-date: 2021-01-28T08:00:00-04:00
+date: 2024-02-11T08:00:00-04:00
 draft: false
 type: page
 layout: privacy-policy
