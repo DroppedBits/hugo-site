@@ -21,7 +21,7 @@ First, the numbers: there were 31 pre-orders of the app at the pre-launch sale p
 
 Best I can tell, nearly all pre-orders came from this tweet:
 
-{{< tweet 1358765604178710528 >}}
+`This content is no longer available.`
 
 It was retweeted by some lovely people, with significantly larger audiences than I have. All in all, it had over 27K impressions, and 286 engagements on Twitter.
 

@@ -9,6 +9,9 @@
 !.vscode/launch.json
 !.vscode/extensions.json
 
+### Nova ###
+.nova/*
+
 ### Hugo ###
 # gitginore template for Hugo projects
 # website: https://gohugo.io

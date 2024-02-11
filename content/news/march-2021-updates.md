@@ -37,7 +37,7 @@ So, you know, if you haven't already, maybe consider [buying Thought Detox on th
 
 A couple of weeks ago, I asked on [Twitter][tdtwitter] about what I should focus on next:
 
-{{< tweet 1374843706264682496 >}}
+`This content is no longer available.`
 
 And with the results in, it's an even split between building the iPad and Mac app next. I think I'll probably build the iPad app first, as it'll be a bit easier to build from the iPhone app.
 

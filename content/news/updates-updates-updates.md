@@ -26,7 +26,7 @@ As always, you can check out the public roadmap for the app [here][tdroadmap]. A
 
 What I've learned from my survey on iOS updating habits is that you all tend to not waste any time. That is, updates to your iOS devices are done pretty much immediately. A poll I did on Twitter showed the same behaviour:
 
-{{% tweet 1413535429257842690 %}}
+`This content is no longer available.`
 
 Now, there are two things wrong with this data. One, it's a _tiny_ sample size, so it's not super reliable. Second, many of my Twitter followers are iOS developers themselves, so they're pretty likely to keep their devices as up-to-date as possible.
 

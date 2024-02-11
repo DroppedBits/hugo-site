@@ -22,7 +22,7 @@ Trying to support older versions is a huge undertaking for a single developer li
 
 Just a quick update here: a lot of the trickiest parts of building Thought Detox —namely, the animations— are working fairly well on iPad already:
 
-{{< tweet 1404061046575357959 >}} 
+`This content is no longer available.` 
 
 The bulk of the work right now is building a solution for you to be able to track your time spent writing on iPad and the Mac, but it's coming along!
 

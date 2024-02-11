@@ -10,7 +10,7 @@ layout: "blog"
 
 You may have seen [this tweet][1] yesterday:
 
-{{< tweet 1354099446917849095 >}}
+`This content is no longer available.`
 
 I've been teasing the work I've been doing on the first new Dropped Bits app since… wow, 2015? Has it been that long since I launched [Per][2]?
 
